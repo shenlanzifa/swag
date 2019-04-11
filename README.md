@@ -372,7 +372,7 @@ Besides that, `swag` also accepts aliases for some MIME Types as follows:
 | query                 |直接跟参数完成自动映射赋值,url中设置的查询参数|
 | body                  |以流的形式提交 仅支持POST|
 | header                |参数在request headers 里边提交|
-| form                  |以form表单的形式提交 仅支持POST|
+| formData                  |以form表单的形式提交 仅支持POST|
 
 ## Data Type
 
